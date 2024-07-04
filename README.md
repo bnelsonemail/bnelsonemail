@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Brice Nelson (@bnelsonemail)
-- ![Profile Views](https://komarev.com/ghpvc/?username=bnelsonemail)
+![Profile Views](https://komarev.com/ghpvc/?username=bnelsonemail)
 ## 👩‍💻 About Me 
 I am a software developer with a passion for building web applications. My goal is to continuously improve my skills and contribute to impactful projects.
 - 🔭 I’m currently working on [Gallows Guess] (https://github.com/bnelsonemail/Gallows-Guess)
