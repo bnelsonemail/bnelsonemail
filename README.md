@@ -16,7 +16,7 @@ I am a software developer with a passion for building web applications. My goal 
 
 ## 🚀 Projects
 Here are some of my recent projects:
-### [Gallow Guess] (https://github.com/bnelsonemail/Gallows-Guess)
+### [Gallows Guess] (https://github.com/bnelsonemail/Gallows-Guess)
 A web application to play a game of Hangman.
 This application is currently in development.
 
