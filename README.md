@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Brice Nelson (@bnelsonemail)
-![Profile Views](https://komarev.com/ghpvc/?username=bnelsonemail)
+
 ## 👩‍💻 About Me 
 I am a software developer with a passion for building web applications. My goal is to continuously improve my skills and contribute to impactful projects.
 - 🔭 I’m currently working on [Gallows Guess] (https://github.com/bnelsonemail/Gallows-Guess)
@@ -31,7 +31,7 @@ This application was inspired by my dogs.  My chocolate lab had to be euthanized
 - **Tech Stack:** HTML, CSS, JavaScript
 - **Features:** The game has a start screen to begin the game.  The game provides a counter of remaining moves and a score, along with a restart.
 
-
+![Profile Views](https://komarev.com/ghpvc/?username=bnelsonemail)
 
 
 <!---
