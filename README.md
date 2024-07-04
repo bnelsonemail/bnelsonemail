@@ -2,15 +2,15 @@
 
 ## 👩‍💻 About Me 
 I am a software developer with a passion for building web applications. My goal is to continuously improve my skills and contribute to impactful projects.
-- 🔭 I’m currently working on [Gallows Guess] (https://github.com/bnelsonemail/Gallows-Guess)
+- 🔭 I’m currently working on **Gallows Guess** (https://github.com/bnelsonemail/Gallows-Guess)
 - 🌱 I’m currently learning Next.JS and React. Plan on learning Python and Flask in the near future.
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about JavaScript, CSS, or anything tech-related.
 - 👀 I’m interested in skeet shooting, going to the beach with my dogs, sailing, and fishing to name a few.
 - 🌱 I’m currently learning python, javascript, CSS, and HTML.  I enrolled in a full stack bootcamp which started in April 2024.
-- 🚀 I'm also enrolled in a mentorship program with [Web Dev Incubators] (https://codenoobs.io/)
+- 🚀 I'm also enrolled in a mentorship program with **Web Dev Incubators** (https://codenoobs.io/)
 - 💞️ I’m looking to collaborate on programming projects for now.  I want to learn through experience.
-- 📫 How to reach me by [email:] (brice.web.development@gmail.com) or (bnelsonemail@icloud.com)
+- 📫 How to reach me by **email:** (brice.web.development@gmail.com) or (bnelsonemail@icloud.com)
 - 😄 Pronouns: I don't use pronouns
 - ⚡ Fun fact: I have lived in extremes.  I have lived as far south as West Palm Beach and as far north as Minot ND.  I experienced a wind chill of -78 with a temp of -35 in ND.
 
