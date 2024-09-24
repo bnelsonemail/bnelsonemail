@@ -3,7 +3,7 @@
 ## 👩‍💻 About Me 
 I am a software developer with a passion for building web applications. My goal is to continuously improve my skills and contribute to impactful projects.
 - 🔭 I’m currently working on **Fermi Paradox** (https://github.com/bnelsonemail/Fermi-Paradox)
-- 🌱 I’m currently learning Next.JS and React. Plan on learning Python and Flask in the near future.
+- 🌱 I’m currently learning Next.JS, React, SQLAlchemy, intermediate/advanced Python and Flask. I plan on learning more advanced techniques used in Python to provide analytics in Data Science in the near future.
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about JavaScript, CSS, Python, Flask, Next.JS or anything tech-related.
 - 👀 I’m interested in skeet shooting, going to the beach with my dogs, sailing, and fishing to name a few.
