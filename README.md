@@ -2,7 +2,7 @@
 
 ## 👩‍💻 About Me 
 I am a software developer with a passion for building web applications. My goal is to continuously improve my skills and contribute to impactful projects.
-- 🔭 I’m currently working on **Gallows Guess** (https://github.com/bnelsonemail/Gallows-Guess)
+- 🔭 I’m currently working on **Fermi Paradox** (https://github.com/bnelsonemail/Fermi-Paradox)
 - 🌱 I’m currently learning Next.JS and React. Plan on learning Python and Flask in the near future.
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about JavaScript, CSS, Python, Flask, Next.JS or anything tech-related.
