@@ -5,23 +5,25 @@ I am a software developer with a passion for building web applications. My goal 
 - 🔭 I’m currently working on **Gallows Guess** (https://github.com/bnelsonemail/Gallows-Guess)
 - 🌱 I’m currently learning Next.JS and React. Plan on learning Python and Flask in the near future.
 - 👯 I’m looking to collaborate on open-source projects.
-- 💬 Ask me about JavaScript, CSS, or anything tech-related.
+- 💬 Ask me about JavaScript, CSS, Python, Flask, Next.JS or anything tech-related.
 - 👀 I’m interested in skeet shooting, going to the beach with my dogs, sailing, and fishing to name a few.
-- 🌱 I’m currently learning python, javascript, CSS, and HTML.  I enrolled in a full stack bootcamp which started in April 2024.
+- 🌱 I’m currently learning Python, Postgres, SQLAlchemy, Flask, and Next.JS.  I enrolled in a full stack bootcamp which started in April 2024.
 - 🚀 I'm also enrolled in a mentorship program with **Web Dev Incubators** (https://codenoobs.io/)
 - 💞️ I’m looking to collaborate on programming projects for now.  I want to learn through experience.
 - 📫 How to reach me by **email:** (brice.web.development@gmail.com) or (bnelsonemail@icloud.com)
 - 😄 Pronouns: I don't use pronouns
-- ⚡ Fun fact: I have lived in extremes.  I have lived as far south as West Palm Beach and as far north as Minot ND.  I experienced a wind chill of -78 with a temp of -35 in ND.
+- ⚡ Fun fact: I have lived in extremes.  I have lived as far south as West Palm Beach and as far north as Minot ND.  I experienced a wind chill of -78 with a temp of -35 in ND and have been through several Major Hurricanes.
 
 ## 🚀 Projects
 Here are some of my recent projects:
-### [Gallows Guess] (https://github.com/bnelsonemail/Gallows-Guess)
-A web application to play a game of Hangman.
-This application is currently in development.
+### [Mad Lib Magic] (https://github.com/bnelsonemail/Mad-Lib-Magic)
+A web application using Python and Flask to allow the user to choose words in a form and then provide a random short story using the user's chosen words.
+This application has been hosted and can be seen at the following location: https://mad-lib-magic-bnelson.replit.app/
+This application is currently being enhanced in development.
 
-- **Tech Stack:** HTML, CSS, JavaScript, DOM Manipulation.
-- **Features:** Start Screen, Random Generation of Words in an Array, Displays Guesses and Correct Letters Display.
+- **Tech Stack:** HTML, Tailwind Python, & Flask.
+- **Features:** Start Screen, capture of data from form submission and applied to the program, random generation of stories which implement in the data submitted.
+-  **Enhancements in Development:** Links on start screen to allow the user to choose the theme.  Individualized forms for each theme.  Added many stories to be randomized for each theme.  Flask is incorporating a vast number of files for the incoporation of the enhancements.
 
 ### [Cognitive Quest] (https://github.com/bnelsonemail/Cognitive-Quest)
 A web application to play a Memory Game.
