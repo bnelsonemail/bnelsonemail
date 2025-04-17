@@ -7,7 +7,7 @@ I'm a Python developer with a strong background in engineering and finance, pivo
 ---
 
 ## 🚀 Current Focus Areas
-- 🧠 **Fintech Projects**: Building tools for budgeting, forecasting, and data visualization in personal finance.
+- 🧠 **Fintech Projects**: Building tools for budgeting, forecasting, and financial planning.
 - 📈 **Data Science & ML**: Applied machine learning projects like credit default prediction and Full Waveform Inversion (FWI) using large-scale seismic datasets.
 - 🌐 **Full-Stack Development**: Flask, PostgreSQL, SQLAlchemy, and Heroku deployments.
 - 🧪 **Modeling + Engineering**: Leveraging engineering principles and data pipelines for clean, production-ready fintech applications.
@@ -15,48 +15,63 @@ I'm a Python developer with a strong background in engineering and finance, pivo
 ---
 
 ## 🔨 Tools & Tech Stack
-- **Languages**: Python, JavaScript (React, Next.js), SQL
-- **Frameworks**: Flask, FastAPI, SQLAlchemy, TailwindCSS, Bootstrap
-- **Data Science**: Pandas, NumPy, Scikit-learn, DuckDB
-- **Notebooks & IDEs**: Jupyter Lab, Jupyter Notebook, DataSpell, VS Code, PyCharm, Cursor
-- **Databases**: PostgreSQL, DuckDB, SQLite
-- **Cloud & Deployment**: Heroku, Vercel, Replit, GitHub Pages
-- **Workflow**: Git, GitHub, Conda, Python Virtual Environment
+- **Languages**: Python, JavaScript (React, Next.js), SQL  
+- **Frameworks**: Flask, FastAPI, SQLAlchemy, TailwindCSS, Bootstrap  
+- **Data Science**: Pandas, NumPy, Scikit-learn, DuckDB  
+- **Notebooks & IDEs**: Jupyter Lab, Jupyter Notebook, DataSpell, VS Code, PyCharm, Cursor  
+- **Databases**: PostgreSQL, DuckDB, SQLite  
+- **Cloud & Deployment**: Heroku, Vercel, Replit, GitHub Pages  
+- **Workflow**: Git, GitHub, Conda, Python Virtual Environment  
 
 ---
 
 ## 📊 Projects (Fintech & Data Science Highlights)
 
-### [💰 Budget Forecast App](https://github.com/Brice-Financial-Projects/Financial-App)
+### [💰 Budget Forecast App](https://github.com/Brice-Financial-Projects/Financial-App)  
 A full-stack budgeting application that allows users to input income, deductions, and track expenses across categories with auto-calculated tax withholding based on state selection. Deployed on Heroku with user registration, profile management, and dynamic dashboards.
 
-- **Stack**: Python, Flask, PostgreSQL, SQLAlchemy, Bootstrap
-- **Features**: State tax logic, gross income frequency support, user session handling, and dynamic budget projections.
-- **In Progress**: Adding Monte Carlo simulation for retirement forecasting.
+- **Stack**: Python, Flask, PostgreSQL, SQLAlchemy, Bootstrap  
+- **Features**: State tax logic, gross income frequency support, user session handling, and dynamic budget projections
 
 ---
 
-### [🌍 Full Waveform Inversion ML (Coming Soon)]()
-A machine learning approach to subsurface imaging using seismic waveform data from the OpenFWI dataset. Predicts 2D velocity maps from noisy 4D waveforms. Built with competition constraints and production-grade documentation.
+### [📊 Retirement Forecast Simulator](https://github.com/bnelsonemail/Wealth_Journey_Projections)  
+A Monte Carlo-powered wealth projection application that simulates retirement readiness based on user inputs like income, expenses, savings rate, and portfolio assumptions. Deployed at: 🌐 [www.retireforecast.com](https://www.retireforecast.com)
 
-- **Stack**: Python, NumPy, Matplotlib, DuckDB, PyTorch (planned)
-- **Features**: Modular codebase, DuckDB metadata layer, full EDA → preprocessing → modeling pipeline
+- **Stack**: Python, Flask, Matplotlib, Heroku  
+- **Features**: Simulates thousands of retirement outcomes, visualizes retirement horizon, interactive front-end  
+- **Goal**: Help users determine whether their retirement plan is on track or needs adjustment
 
 ---
 
-### [📈 Credit Default Risk Model (Coming Soon)](https://github.com/Brice-Data-Science/Credit-Risk-Assessment)
+### [🌍 Full Waveform Inversion ML (Coming Soon)]()  
+A machine learning approach to subsurface imaging using seismic waveform data from the OpenFWI dataset. Predicts 2D velocity maps from noisy 4D waveforms. Built with competition constraints and professional-grade documentation.
+
+- **Stack**: Python, NumPy, Matplotlib, DuckDB, PyTorch (planned)  
+- **Features**: Modular codebase, DuckDB metadata layer, full EDA → preprocessing → modeling pipeline  
+
+---
+
+### [📈 Credit Default Risk Model (Coming Soon)](https://github.com/Brice-Data-Science/Credit-Risk-Assessment)  
 A binary classification model to assess credit default risk using the UCI dataset. Designed with explainability and real-world deployment in mind.
 
-- **Focus**: EDA, SHAP interpretability, modular pipelines
-- **Deployment Goal**: Flask API + interactive dashboard
+- **Focus**: EDA, SHAP interpretability, modular pipelines  
+- **Deployment Goal**: Flask API + interactive dashboard  
 
 ---
 
-### [📘 Pencils & Python: Derivatives in the Real World](https://github.com/Pencils-and-Python/Pencils-Python-Derivatives)
+### [📘 Pencils & Python: Derivatives in the Real World](https://github.com/Pencils-and-Python/Pencils-Python-Derivatives)  
 A blog-linked repo for my *Pencils & Python* educational series, where I explore mathematical finance concepts (like derivatives and continuous compounding) using Python.
 
-- **Focus**: Real-world finance meets code — Black-Scholes, calculus-based modeling, risk metrics
+- **Focus**: Real-world finance meets code — Black-Scholes, calculus-based modeling, risk metrics  
 - **Blog**: [Medium: QuantShift](https://medium.com/@quantshift)
+
+---
+
+## 🖥️ Portfolio Website
+
+My personal site includes projects, blog links, and contact information:  
+🌐 [www.devbybrice.com](https://www.devbybrice.com)
 
 ---
 
@@ -68,9 +83,9 @@ A blog-linked repo for my *Pencils & Python* educational series, where I explore
 ---
 
 ## 🌱 Learning & Growing
-- Fintech data science (credit scoring, fraud detection, time series modeling)
-- Statistical modeling + ML pipelines
-- Financial APIs, dashboards, and interactive web UIs
+- Fintech data science (credit scoring, fraud detection, time series modeling)  
+- Statistical modeling + ML pipelines  
+- Financial APIs, dashboards, and interactive web UIs  
 
 ---
 
