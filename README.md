@@ -16,11 +16,12 @@ I'm a Python developer with a strong background in engineering and finance, pivo
 
 ## 🔨 Tools & Tech Stack
 - **Languages**: Python, JavaScript (React, Next.js), SQL
-- **Frameworks**: Flask, FastAPI, SQLAlchemy, TailwindCSS
-- **Data Science**: Pandas, NumPy, Scikit-learn, Jupyter, DuckDB
+- **Frameworks**: Flask, FastAPI, SQLAlchemy, TailwindCSS, Bootstrap
+- **Data Science**: Pandas, NumPy, Scikit-learn, DuckDB
+- **Notebooks & IDEs**: Jupyter Lab, Jupyter Notebook, DataSpell, VS Code, PyCharm, Cursor
 - **Databases**: PostgreSQL, DuckDB, SQLite
-- **Cloud & Deployment**: Heroku, Replit, GitHub Pages
-- **Workflow**: Git, GitHub, Conda, Virtualenv, VS Code, DataSpell
+- **Cloud & Deployment**: Heroku, Vercel, Replit, GitHub Pages
+- **Workflow**: Git, GitHub, Conda, Python Virtual Environment
 
 ---
 
