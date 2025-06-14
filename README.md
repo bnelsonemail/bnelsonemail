@@ -46,11 +46,19 @@ A Monte Carlo-powered wealth projection application that simulates retirement re
 
 ---
 
-### [🌍 Full Waveform Inversion ML (Coming Soon)]()  
-A machine learning approach to subsurface imaging using seismic waveform data from the OpenFWI dataset. Predicts 2D velocity maps from noisy 4D waveforms. Built with competition constraints and professional-grade documentation.
+### 🏦 [Banking Automation Bot](https://github.com/Brice-Financial-Projects/Banking-Automation-Bot)
 
-- **Stack**: Python, NumPy, Matplotlib, DuckDB, PyTorch (planned)  
-- **Features**: Modular codebase, DuckDB metadata layer, full EDA → preprocessing → modeling pipeline  
+A Django-based backend automation tool designed to simulate and manage banking workflows such as account creation, transaction logging, and user interaction logic. This project emphasizes real-world business logic, testable architecture, and eventual Docker support for scalable deployment.
+
+**Stack**: Python, Django, PostgreSQL, Git, Linux (Docker planned)  
+**Features**:
+- Modular Django architecture  
+- Automated account handling logic  
+- Transaction simulation  
+- Clean code organization with ongoing MVP refinement  
+
+**Status**: In active development with focus on MVP completion and Dockerization
+
 
 ---
 
