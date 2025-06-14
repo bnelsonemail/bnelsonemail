@@ -46,7 +46,7 @@ A Monte Carlo-powered wealth projection application that simulates retirement re
 
 ---
 
-### 🏦 [Banking Automation Bot](https://github.com/Brice-Financial-Projects/Banking-Automation-Bot)
+### 🏦 [Banking Automation Bot (Coming Soon)](https://github.com/Brice-Financial-Projects/Banking-Automation-Bot)
 
 A Django-based backend automation tool designed to simulate and manage banking workflows such as account creation, transaction logging, and user interaction logic. This project emphasizes real-world business logic, testable architecture, and eventual Docker support for scalable deployment.
 
