@@ -46,6 +46,22 @@ A Monte Carlo-powered wealth projection application that simulates retirement re
 
 ---
 
+### 📈 [HedgeForge: Portfolio Risk Modeling Engine (In Progress)](https://github.com/Brice-Financial-Projects/HedgeForge)
+
+A Python-based quantitative finance project that simulates and optimizes long-term portfolio performance using stochastic processes and Monte Carlo simulations. HedgeForge is designed for institutional use cases like asset-liability management (ALM) and economic scenario generation (ESG), with emphasis on reproducible modeling and scenario stress testing.
+
+**Stack**: Python, NumPy, Pandas, SciPy, Matplotlib, Quarto, Git (Streamlit and cvxpy planned)  
+**Features**:
+- Monte Carlo simulation of asset paths (GBM, mean-reverting, multi-asset correlation)  
+- Portfolio optimization using mean-variance and utility-based frameworks  
+- Historical and synthetic strategy backtesting  
+- Scenario stress testing and risk exposure modeling  
+- Transparent documentation using Quarto  
+
+**Status**: In early development with focus on simulation engine and optimization module
+
+---
+
 ### 🏦 [Banking Automation Bot (Coming Soon)](https://github.com/Brice-Financial-Projects/Banking-Automation-Bot)
 
 A Django-based backend automation tool designed to simulate and manage banking workflows such as account creation, transaction logging, and user interaction logic. This project emphasizes real-world business logic, testable architecture, and eventual Docker support for scalable deployment.
