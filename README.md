@@ -1,6 +1,6 @@
 👋 Hi, I’m Brice Nelson
 
-## 💼 Fintech-Focused Python Developer | Data-Driven Engineer | Quant-in-Training
+## 💼 Fintech-Focused Python Developer | Data-Driven Engineer | Backend Developer
 
 🧮 *Engineer by training, Pythonista by passion, and a quant-in-the-making. I believe the best risk models are like good coffee—strong, refined, and always improving with iteration.* ☕
 
