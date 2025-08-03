@@ -132,7 +132,7 @@ I’ve engineered both municipal infrastructure and Monte Carlo simulations—be
 
 ## 🤝 Let’s Connect
 
-📬 brice.web.development@gmail.com | bnelsonemail@icloud.com
+📬 brice@devbybrice.com | brice.web.development@gmail.com | bnelsonemail@icloud.com
 
 ![Profile Views](https://komarev.com/ghpvc/?username=bnelsonemail)
 
