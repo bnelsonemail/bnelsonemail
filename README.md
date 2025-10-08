@@ -122,7 +122,8 @@ Both rely on **flow**, **pressure**, and a good set of boundary conditions. 🏗
 
 ---
 
-📬 **brice@devbybrice.com** | [LinkedIn](https://www.linkedin.com/in/bricenelson/) | ![Profile Views](https://komarev.com/ghpvc/?username=bnelsonemail)
+📬 **brice@devbybrice.com** | [LinkedIn](https://www.linkedin.com/in/bricenelson/) 
+![Profile Views](https://komarev.com/ghpvc/?username=bnelsonemail)
 
 <!---
 bnelsonemail/bnelsonemail is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
