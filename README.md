@@ -122,7 +122,7 @@ Both rely on **flow**, **pressure**, and a good set of boundary conditions. 🏗
 
 ---
 
-📬 **brice@devbybrice.com** | [LinkedIn](https://www.linkedin.com/in/bricenelson/) <br>
+📬 **brice@devbybrice.com** | [LinkedIn](https://www.linkedin.com/in/brice-a-nelson-p-e-mba-36b28b15/)<br>
 ![Profile Views](https://komarev.com/ghpvc/?username=bnelsonemail)
 
 <!---
