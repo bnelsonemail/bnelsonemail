@@ -23,7 +23,7 @@ I build scalable systems that make financial data **actionable**, **trustworthy*
 |-----------|-------|
 | **Languages** | Python, SQL |
 | **Frameworks** | FastAPI, Flask, Django, SQLAlchemy |
-| **Data & ML** | Pandas, NumPy, Scikit-Learn, DuckDB |
+| **Data & ML** | Pandas, NumPy, Scikit-Learn |
 | **Databases** | PostgreSQL, MySQL, SQLite, DuckDB |
 | **Infra & DevOps** | AWS (in progress), Heroku, Vercel, Docker (in progress), GitHub Actions |
 | **Workflow** | Git, Conda, uv, Poetry |
