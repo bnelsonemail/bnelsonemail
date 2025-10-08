@@ -43,7 +43,7 @@ A full-stack budgeting app that automates income normalization, expense tracking
 
 ---
 
-### [🏗️ **Cost Query Pro**](https://github.com/Brice-Backend-Projects/Cost-Query-Pro)  
+### [🏗️ **Cost Query Pro**](https://github.com/Brice-Engineering-Projects/Cost-Query-Pro)  
 A FastAPI-powered cost intelligence platform for querying and analyzing civil bid-item pricing across large datasets. Designed for engineers, contractors, and analysts who need rapid access to structured cost data.  
 
 - **Status**: ⚙️ *In Progress*  
@@ -128,4 +128,3 @@ Both rely on **flow**, **pressure**, and a good set of boundary conditions. 🏗
 bnelsonemail/bnelsonemail is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
