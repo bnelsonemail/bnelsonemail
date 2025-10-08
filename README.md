@@ -1,143 +1,131 @@
-👋 Hi, I’m Brice Nelson
+# 👋 Hi, I’m Brice Nelson  
 
-## 💼 Fintech-Focused Python Developer | Data-Driven Engineer | Backend Developer
+## 💼 Backend Developer | Fintech Engineer | Data-Driven Problem Solver  
 
-🧮 *Engineer by training, Pythonista by passion, and a quant-in-the-making. I believe the best risk models are like good coffee—strong, refined, and always improving with iteration.* ☕
-
----
-
-## 🚀 Current Focus Areas (Where I’m Crunching Numbers & Pushing Code)
-
-- 🧠 **Fintech Projects**: Building tools for budgeting, forecasting, and financial planning.
-- 📈 **Data Science & ML**: Applied machine learning projects like credit default prediction and Full Waveform Inversion (FWI) using large-scale seismic datasets.
-- 🌐 **Full-Stack Development**: Flask, PostgreSQL, SQLAlchemy, and Heroku deployments.
-- 🧪 **Quantitative Modeling**: Applying engineering precision and financial logic to data-driven applications—from derivatives modeling to Monte Carlo simulations.
+🧠 *Engineer by training, Pythonista by passion, and a backend architect specializing in fintech infrastructure.*  
+I build scalable systems that make financial data **actionable**, **trustworthy**, and **profitable** — because precision doesn’t stop at pipelines or portfolios. ☕
 
 ---
 
-## 🔨 Tools & Tech Stack (Because Great Models Deserve Great Tools)
+## 🚀 Focus Areas — Where Code Meets Capital  
 
-- **Languages**: Python (the quant powerhouse), SQL  
-- **Frameworks**: Flask, FastAPI, SQLAlchemy, Bootstrap, TailwindCSS  
-- **Data Science**: Pandas, NumPy, Scikit-learn, DuckDB  
-- **Notebooks & IDEs**: Jupyter Lab + JetBrains (DataSpell, PyCharm)—*where quants and code come alive*  
-- **Databases**: PostgreSQL, DuckDB, SQLite  
-- **Cloud & Deployment**: Heroku, Vercel, GitHub Pages  
-- **Workflow**: Git, GitHub, Conda, Python Virtual Environment  
+- 🏦 **Backend Development** – API-first architectures using FastAPI, Flask, PostgreSQL, and SQLAlchemy  
+- 💸 **Fintech Applications** – Budgeting, cost intelligence, and risk-modeling tools bridging finance and software engineering  
+- 📊 **Quantitative Analytics** – Monte Carlo simulations, portfolio optimization, and risk modeling  
+- ⚙️ **Data Infrastructure** – Schema design, caching, and scalable deployment pipelines  
+- 🔍 **Applied ML in Finance** – Credit risk scoring, forecasting, and time-series modeling  
 
 ---
 
-## 📊 Projects (Fintech & Data Science Highlights)
+## 🧰 Core Tech Stack  
 
-### [💰 Budget Forecast App](https://github.com/Brice-Financial-Projects/Financial-App)  
-A full-stack budgeting application that allows users to input income, deductions, and track expenses across categories with auto-calculated tax withholding based on state selection. Deployed on Heroku with user registration, profile management, and dynamic dashboards.
-
-- **Stack**: Python, Flask, PostgreSQL, SQLAlchemy, Bootstrap  
-- **Features**: State tax logic, gross income frequency support, user session handling, and dynamic budget projections
-
----
-
-### [📊 Retirement Forecast Simulator](https://github.com/bnelsonemail/Wealth_Journey_Projections)  
-A Monte Carlo-powered wealth projection application that simulates retirement readiness based on user inputs like income, expenses, savings rate, and portfolio assumptions. Deployed at: 🌐 [www.retireforecast.com](https://www.retireforecast.com)
-
-- **Stack**: Python, Flask, Matplotlib, Heroku  
-- **Features**: Simulates thousands of retirement outcomes, visualizes retirement horizon, interactive front-end  
-- **Goal**: Help users determine whether their retirement plan is on track or needs adjustment
+| Category | Tools |
+|-----------|-------|
+| **Languages** | Python, SQL |
+| **Frameworks** | FastAPI, Flask, Django, SQLAlchemy |
+| **Data & ML** | Pandas, NumPy, Scikit-Learn, DuckDB |
+| **Databases** | PostgreSQL, MySQL, SQLite, DuckDB |
+| **Infra & DevOps** | AWS (in progress), Heroku, Vercel, Docker (in progress), GitHub Actions |
+| **Workflow** | Git, Conda, uv, Poetry |
+| **Docs & Notebooks** | JupyterLab, Quarto, PyCharm, DataSpell |
 
 ---
 
-### 📈 [HedgeForge: Portfolio Risk Modeling Engine (In Progress)](https://github.com/Brice-Financial-Projects/HedgeForge)
+## 🧩 Featured Projects  
 
-A Python-based quantitative finance project that simulates and optimizes long-term portfolio performance using stochastic processes and Monte Carlo simulations. HedgeForge is designed for institutional use cases like asset-liability management (ALM) and economic scenario generation (ESG), with emphasis on reproducible modeling and scenario stress testing.
+### [💰 **BudgetSync**](https://github.com/Brice-Financial-Projects/Financial-App)  
+A full-stack budgeting app that automates income normalization, expense tracking, and tax estimation with secure sessions and live dashboards.  
 
-**Stack**: Python, NumPy, Pandas, SciPy, Matplotlib, Quarto, Git (Streamlit and cvxpy planned)  
-**Features**:
-- Monte Carlo simulation of asset paths (GBM, mean-reverting, multi-asset correlation)  
-- Portfolio optimization using mean-variance and utility-based frameworks  
-- Historical and synthetic strategy backtesting  
-- Scenario stress testing and risk exposure modeling  
-- Transparent documentation using Quarto  
-
-**Status**: In early development with focus on simulation engine and optimization module
+- **Status**: 🟢 *Active – being debugged and refactored for AWS deployment*  
+- **Stack**: Flask, PostgreSQL, SQLAlchemy, Bootstrap  
+- **Highlights**: Multi-budget profiles, income frequency conversion, weather API integration, SendGrid password-reset flow  
+- **Goal**: Deliver a production-grade, AWS-hosted personal finance platform  
 
 ---
 
-### 🏦 [Banking Automation Bot (Coming Soon)](https://github.com/Brice-Financial-Projects/Banking-Automation-Bot)
+### [🏗️ **Cost Query Pro**](https://github.com/Brice-Backend-Projects/Cost-Query-Pro)  
+A FastAPI-powered cost intelligence platform for querying and analyzing civil bid-item pricing across large datasets. Designed for engineers, contractors, and analysts who need rapid access to structured cost data.  
 
-A Django-based backend automation tool designed to simulate and manage banking workflows such as account creation, transaction logging, and user interaction logic. This project emphasizes real-world business logic, testable architecture, and eventual Docker support for scalable deployment.
-
-**Stack**: Python, Django, PostgreSQL, Git, Linux (Docker planned)  
-**Features**:
-- Modular Django architecture  
-- Automated account handling logic  
-- Transaction simulation  
-- Clean code organization with ongoing MVP refinement  
-
-**Status**: In active development with focus on MVP completion and Dockerization
-
+- **Status**: ⚙️ *In Progress*  
+- **Stack**: FastAPI, SQLAlchemy, PostgreSQL, JWT Auth, AWS RDS  
+- **Features**:  
+  - RESTful API endpoints for cost queries  
+  - Hierarchical model relationships (Projects → Items → Costs)  
+  - Authentication via JWT and secure session logic  
+  - Potential Snowflake OLAP integration  
+- **Goal**: Deliver high-performance backend architecture for cost data analytics  
 
 ---
 
-### [📈 Credit Default Risk Model (Coming Soon)](https://github.com/Brice-Data-Science/Credit-Risk-Assessment)  
-A binary classification model to assess credit default risk using the UCI dataset. Designed with explainability and real-world deployment in mind.
+### [🏦 **Banking Automation Bot**](https://github.com/Brice-Financial-Projects/Banking-Automation-Bot)  
+A Django-powered backend that simulates core banking workflows—account creation, transactions, and automation logic—with modular design and Docker-ready architecture.  
 
-- **Focus**: EDA, SHAP interpretability, modular pipelines  
-- **Deployment Goal**: Flask API + interactive dashboard  
-
----
-
-### [📘 Pencils & Python: Derivatives in the Real World](https://github.com/Pencils-and-Python/Pencils-Python-Derivatives)  
-A blog-linked repo for my *Pencils & Python* educational series, where I explore mathematical finance concepts (like derivatives and continuous compounding) using Python.
-
-- **Focus**: Real-world finance meets code — Black-Scholes, calculus-based modeling, risk metrics  
-- **Blog**: [Medium: QuantShift](https://medium.com/@quantshift)
+- **Status**: ⚙️ *In Progress*  
+- **Focus**: Scalable backend architecture + normalized relational models  
+- **Next Steps**: Celery task queue + REST API integration  
 
 ---
 
-## 🏢 My GitHub Organizations (Where the Magic Happens)
+### [📈 **HedgeForge: Portfolio Risk Modeling Engine**](https://github.com/Brice-Financial-Projects/HedgeForge)  
+A quantitative modeling engine for Monte Carlo simulation and asset allocation optimization.  
 
-I’m not just building projects—I’m building **ecosystems.** These are the hubs where I deep-dive into quant finance, data science, and math-driven modeling:
-
-| 🚀 **Organization** | 🧠 **What Happens Here** | 🔗 **Explore** |
-|---------------------|--------------------------|---------------|
-| **Brice Data Science** | Experimental ML projects and data science workflows across finance, engineering, and analytics. | [Repos »](https://github.com/orgs/Brice-Data-Science/repositories) |
-| **Brice Financial Projects** | Fintech applications—budgeting, forecasting, and financial planning tools designed for real-world use. | [Repos »](https://github.com/Brice-Financial-Projects) |
-| **QuantShift Lab** | Pure quant work: risk models, algorithmic trading strategies, and applied mathematical finance. | [Repos »](https://github.com/QuantShift-Lab) |
-| **Pencils & Python** | Educational repos that blend math, finance, and Python—supporting my Medium blog series. | [Repos »](https://github.com/Pencils-and-Python) |
-
----
-
-## 💼 Portfolio & Blog
-
-- 🌐 **Portfolio**: [www.devbybrice.com](https://www.devbybrice.com)  
-- ✍️ **Blog**: [The Quant Shift on Medium](https://medium.com/@quantshift)
+- **Status**: ⚙️ *In Progress*  
+- **Stack**: Python, NumPy, Pandas, SciPy, Matplotlib  
+- **Features**:  
+  - GBM and mean-reverting process simulation  
+  - Mean-variance and utility-based optimization  
+  - Scenario stress testing and backtesting  
+  - Quarto-based documentation for transparency  
+- **Goal**: Deliver reproducible, auditable financial model pipelines  
 
 ---
 
-## 🎯 What I’m Looking For
+## 🧠 Research & Learning Repos  
 
-I'm pursuing **quant developer** and **quantitative analyst** roles where I can:
-
-- Build and optimize financial models (and make them *sing* with Python).  
-- Apply ML & statistical thinking to real market and risk challenges.  
-- Push code that matters in high-stakes, fast-paced environments.
+- **[Default Detect](https://github.com/Brice-Financial-Projects/Default-Detect)** – SHAP interpretability + Flask API deployment  
+- **[Pencils & Python: Derivatives in the Real World](https://github.com/Pencils-and-Python/Pencils-Python-Derivatives)** – Turning calculus into code for financial modeling  
+- **[NASA SpaceApps Project](https://github.com/Brice-Machine-Learning/nasa-spaceapps-2025-will-it-rain)** – Applied ML meets real-world climate data  
 
 ---
 
-## 🤖 Fun Fact
+## 🧭 GitHub Ecosystem  
 
-I’ve engineered both municipal infrastructure and Monte Carlo simulations—because pipelines and portfolios both demand precision. 🏗️ ➔ 📈
+| Domain                              | Focus | Explore |
+|-------------------------------------|--------|----------|
+| **Brice Financal Projects**         | Fintech apps — budgeting, cost intelligence, and portfolio modeling | [Repos »](https://github.com/Brice-Financial-Projects) |
+| **Brice Engineering Projects**      | Civil engineering data systems, cost analytics, and automation tools | [Repos »](https://github.com/Brice-Engineering-Projects) |
+| **Brice Machine Learning Projects** | ML pipelines, credit risk modeling, and predictive analytics | [Repos »](https://github.com/Brice-Data-Science) |
+| **Pencils & Python**                | Educational repos blending math, finance, and Python | [Repos »](https://github.com/Pencils-and-Python) |
 
 ---
 
-## 🤝 Let’s Connect
+## 🌐 Portfolio & Blog  
 
-📬 brice@devbybrice.com | brice.web.development@gmail.com | bnelsonemail@icloud.com
+- **Portfolio** → [www.devbybrice.com](https://www.devbybrice.com)  
+- **Blog** → [Medium: The Quant Shift](https://medium.com/@quantshift)
 
-![Profile Views](https://komarev.com/ghpvc/?username=bnelsonemail)
+---
 
+## 🎯 Career Goals  
+
+Seeking **backend** or **fintech engineering** roles focused on:  
+- Building secure, performant APIs and data pipelines  
+- Applying statistical and ML methods to financial risk modeling  
+- Modernizing legacy financial systems with Pythonic precision  
+
+---
+
+## 🤖 Fun Fact  
+
+I’ve designed **water systems beneath streets** and **risk models beneath spreadsheets**.  
+Both rely on **flow**, **pressure**, and a good set of boundary conditions. 🏗️📈  
+
+---
+
+📬 **brice@devbybrice.com** | [LinkedIn](https://www.linkedin.com/in/bricenelson/) | ![Profile Views](https://komarev.com/ghpvc/?username=bnelsonemail)
 
 <!---
 bnelsonemail/bnelsonemail is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
