@@ -34,12 +34,12 @@ I build scalable systems that make financial data **actionable**, **trustworthy*
 ## 🧩 Featured Projects  
 
 ### [💰 **BudgetSync**](https://github.com/Brice-Financial-Projects/Financial-App)  
-A full-stack budgeting app that automates income normalization, expense tracking, and tax estimation with secure sessions and live dashboards.  
+A backend-first financial application with secure authentication, normalized relational models, email workflows, and environment-based configuration. Built for real deployment—not demos.
 
-- **Status**: 🟢 *Active – being debugged and refactored for AWS deployment*  
-- **Stack**: Flask, PostgreSQL, SQLAlchemy, Bootstrap  
-- **Highlights**: Multi-budget profiles, income frequency conversion, weather API integration, SendGrid password-reset flow  
-- **Goal**: Deliver a production-grade, AWS-hosted personal finance platform  
+- **Status**: 🟢 Near-deploy (AWS RDS + production config in progress)  
+- **Stack**: Flask, PostgreSQL, SQLAlchemy, Redis/Flask-Session, SendGrid  
+- **Highlights**: Multi-budget logic, frequency normalization engine, password reset flow, live weather API  
+- **Goal**: Demonstrate end-to-end backend architecture, user auth, cloud deployment prep, and database-driven state
 
 ---
 
@@ -57,17 +57,18 @@ A FastAPI-powered cost intelligence platform for querying and analyzing civil bi
 
 ---
 
-### [🏦 **Banking Automation Bot**](https://github.com/Brice-Financial-Projects/Banking-Automation-Bot)  
-A Django-powered backend that simulates core banking workflows—account creation, transactions, and automation logic—with modular design and Docker-ready architecture.  
+### [🤖 **Ops AI Cortex** — AI Infrastructure & Experiment Tracking Backend](https://github.com/Brice-Backend-Projects/Ops-AI-Cortex)  
+A backend platform for model lifecycle management, experiment tracking, and ML observability—designed with a docs-first architecture approach.
 
-- **Status**: ⚙️ *In Progress*  
-- **Focus**: Scalable backend architecture + normalized relational models  
-- **Next Steps**: Celery task queue + REST API integration  
+- **Status**: 📝 Architecture complete, implementation beginning  
+- **Stack**: FastAPI, PostgreSQL, Docker, MLflow/W&B (planned), GitHub Actions  
+- **Highlights**: Service boundary diagrams, structured milestones, risk planning, backend-oriented design review docs  
+- **Goal**: Demonstrate platform thinking, backend-ML integration, and architecture-before-code maturity
 
 ---
 
 ### [📈 **HedgeForge: Portfolio Risk Modeling Engine**](https://github.com/Brice-Financial-Projects/HedgeForge)  
-A quantitative modeling engine for Monte Carlo simulation and asset allocation optimization.  
+A backend platform which is a quantitative modeling engine for Monte Carlo simulation, asset allocation optimization.  
 
 - **Status**: ⚙️ *In Progress*  
 - **Stack**: Python, NumPy, Pandas, SciPy, Matplotlib  
