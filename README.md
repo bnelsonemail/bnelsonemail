@@ -33,7 +33,8 @@ I build scalable systems that make financial data **actionable**, **trustworthy*
 
 ## 🧩 Featured Projects  
 
-### [💰 **BudgetSync**](https://github.com/Brice-Financial-Projects/Financial-App)  
+### [💰 **BudgetSync**](https://github.com/Brice-Financial-Projects/Financial-App)
+
 A backend-first financial application with secure authentication, normalized relational models, email workflows, and environment-based configuration. Built for real deployment—not demos.
 
 - **Status**: 🟢 Near-deploy (AWS RDS + production config in progress)  
@@ -43,7 +44,8 @@ A backend-first financial application with secure authentication, normalized rel
 
 ---
 
-### [🏗️ **Cost Query Pro**](https://github.com/Brice-Engineering-Projects/Cost-Query-Pro)  
+### [🏗️ **Cost Query Pro**](https://github.com/Brice-Engineering-Projects/Cost-Query-Pro)
+
 A FastAPI-powered cost intelligence platform for querying and analyzing civil bid-item pricing across large datasets. Designed for engineers, contractors, and analysts who need rapid access to structured cost data.  
 
 - **Status**: ⚙️ *In Progress*  
@@ -57,7 +59,8 @@ A FastAPI-powered cost intelligence platform for querying and analyzing civil bi
 
 ---
 
-### [🤖 **Ops AI Cortex** — AI Infrastructure & Experiment Tracking Backend](https://github.com/Brice-Backend-Projects/Ops-AI-Cortex)  
+### [🤖 **Ops AI Cortex** — AI Infrastructure & Experiment Tracking Backend](https://github.com/Brice-Backend-Projects/Ops-AI-Cortex)
+
 A backend platform for model lifecycle management, experiment tracking, and ML observability—designed with a docs-first architecture approach.
 
 - **Status**: 📝 Architecture complete, implementation beginning  
@@ -67,7 +70,8 @@ A backend platform for model lifecycle management, experiment tracking, and ML o
 
 ---
 
-### [📈 **HedgeForge: Portfolio Risk Modeling Engine**](https://github.com/Brice-Financial-Projects/HedgeForge)  
+### [📈 **HedgeForge: Portfolio Risk Modeling Engine**](https://github.com/Brice-Financial-Projects/HedgeForge)
+
 A backend platform which is a quantitative modeling engine for Monte Carlo simulation, asset allocation optimization.  
 
 - **Status**: ⚙️ *In Progress*  
@@ -110,7 +114,8 @@ A backend platform which is a quantitative modeling engine for Monte Carlo simul
 
 ## 🎯 Career Goals  
 
-Seeking **backend** or **fintech engineering** roles focused on:  
+Seeking **backend** or **fintech engineering** roles focused on:
+
 - Building secure, performant APIs and data pipelines  
 - Applying statistical and ML methods to financial risk modeling  
 - Modernizing legacy financial systems with Pythonic precision  
@@ -124,7 +129,47 @@ Both rely on **flow**, **pressure**, and a good set of boundary conditions. 🏗
 
 ---
 
-📬 **brice@devbybrice.com** | [LinkedIn](https://www.linkedin.com/in/brice-a-nelson-p-e-mba-36b28b15/)<br>
+## 🎨 Fun & Creative Projects
+
+Because engineering isn’t just about APIs and abstractions — sometimes it’s about laughter, cosmic mysteries, and letting curiosity lead the way.
+
+---
+
+### ✨ **MadLibs Magic — Next.js 16 + Turso + Premium UX**
+
+An interactive, edge-powered Mad Libs generator that lets users create absurd stories, vote on premium upgrades, and soon unlock a full-fledged story editor.  
+A quirky blend of **Next.js 16**, **Turso SQLite Edge DB**, and your backend-first architectural style.
+
+🔗 **Repo:** [Mad Libs Magic Repo](https://github.com/bnelsonemail/MadLibs-Next)
+
+**Highlights:**
+
+- Dynamic routing + story builder  
+- Turso-powered analytics and poll collection  
+- Premium upgrade path and future AI-enhanced editor  
+- A surprisingly robust engineering stack… for a decidedly un-serious app 😄
+
+---
+
+### 🌌 **The Fermi Paradox Simulation — Where Python Meets the Cosmos**
+
+A physics-inspired exploration of the Fermi Paradox using probabilistic modeling and simulation logic.  
+Part astrophysics, part mathematics, part “why on Earth haven’t we met aliens yet?”
+
+🔗 **Repo:** [Fermi Paradox Repo](https://github.com/Brice-Physics-Projects/Fermi-Paradox)
+
+**Highlights:**
+
+- Probabilistic universe modeling  
+- Drake-equation–style parameterization  
+- Simulation-driven search for extraterrestrial “Where is everybody?” answers  
+- A perfect blend of your love for physics + clean Python modeling
+
+---
+
+## 🤝 Let’s Connect
+
+📬 **[brice@devbybrice.com](mailto:brice@devbybrice.com)** | [LinkedIn](https://www.linkedin.com/in/brice-a-nelson-p-e-mba-36b28b15/)  
 ![Profile Views](https://komarev.com/ghpvc/?username=bnelsonemail)
 
 <!---
