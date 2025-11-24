@@ -100,7 +100,7 @@ A backend platform which is a quantitative modeling engine for Monte Carlo simul
 | **Brice Backend Projects**          | Backend APIs, authentication systems, and cloud-ready Python services | [Repos »](https://github.com/Brice-Backend-Projects) |
 | **Brice Financal Projects**         | Fintech apps — budgeting, cost intelligence, and portfolio modeling | [Repos »](https://github.com/Brice-Financial-Projects) |
 | **Brice Engineering Projects**      | Civil engineering data systems, cost analytics, and automation tools | [Repos »](https://github.com/Brice-Engineering-Projects) |
-| **Brice Machine Learning Projects** | ML pipelines, credit risk modeling, and predictive analytics | [Repos »](https://github.com/Brice-Data-Science](https://github.com/Brice-Machine-Learning) |
+| **Brice Machine Learning Projects** | ML pipelines, credit risk modeling, and predictive analytics | [Repos »](https://github.com/Brice-Machine-Learning) |
 | **Pencils & Python**                | Educational repos blending math, finance, and Python | [Repos »](https://github.com/Pencils-and-Python) |
 
 ---
