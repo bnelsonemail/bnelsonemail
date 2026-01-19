@@ -214,9 +214,7 @@ Both rely on flow, pressure, and well-defined boundary conditions.
 
 ## 🤝 Let’s Connect
 
-📬 [brice@devbybrice.com](mailto:brice@devbybrice.com)  
-🌐 [https://www.devbybrice.com](https://www.devbybrice.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/brice-a-nelson-p-e-mba-36b28b15/)  
+📬 [brice@devbybrice.com](mailto:brice@devbybrice.com) | 🌐 [https://www.devbybrice.com](https://www.devbybrice.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/brice-a-nelson-p-e-mba-36b28b15/)  
 ![Profile Views](https://komarev.com/ghpvc/?username=bnelsonemail)
 
 ---
