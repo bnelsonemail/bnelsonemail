@@ -169,7 +169,8 @@ Part astrophysics, part mathematics, part “why on Earth haven’t we met alien
 
 ## 🤝 Let’s Connect
 
-📬 **[brice@devbybrice.com](mailto:brice@devbybrice.com)** | [LinkedIn](https://www.linkedin.com/in/brice-a-nelson-p-e-mba-36b28b15/)  
+📬 **[brice@devbybrice.com](mailto:brice@devbybrice.com)**  
+[LinkedIn](https://www.linkedin.com/in/brice-a-nelson-p-e-mba-36b28b15/)  
 ![Profile Views](https://komarev.com/ghpvc/?username=bnelsonemail)
 
 <!---
