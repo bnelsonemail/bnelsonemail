@@ -166,7 +166,7 @@ A quantitative modeling engine for simulation-driven portfolio and risk analysis
 
 ## 🎯 Career Focus
 
-Seeking roles in **Applied Machine Learning**, **Backend Engineering**, or **ML Systems Engineering**, with emphasis on:
+Focused on applying software engineering, data analysis, and applied machine learning techniques to support infrastructure, risk analysis, and decision-support workflows, with emphasis on:
 
 * Production ML and model deployment
 * Data-intensive backend systems
