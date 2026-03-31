@@ -2,20 +2,19 @@
 
 ## 💼 Applied Machine Learning & Backend Engineer | Systems-Focused Problem Solver
 
-🧠 *Engineer by training, Pythonista by practice, and builder of production-grade systems where data, models, and software meet.*
-I specialize in **applied machine learning** and **backend engineering**, turning messy real-world data into **reliable systems** and **defensible decisions**—from infrastructure analytics to financial risk modeling.
+🧠 *Licensed Civil Engineer building applied ML and backend systems for infrastructure.*
+I specialize in turning messy real-world data into **reliable systems** and **defensible decisions**—from infrastructure analytics to risk modeling.
 
-I don’t treat ML as notebooks in isolation. I build **ML as software**. ☕
+I build **ML as production software**, not isolated notebooks. ☕
 
 ---
 
-## 🚀 Focus Areas — Applied, Not Academic
+## 🚀 Focus Areas
 
-* 🧠 **Applied Machine Learning** – Feature engineering, time series modeling, risk scoring, forecasting, and evaluation under real-world constraints
-* 🧱 **Backend & Systems Engineering** – API-first services, authentication, relational data models, and production-ready architectures
-* ⚙️ **Data Engineering** – ETL pipelines, schema design, caching strategies, and reproducible workflows
-* 🏗️ **Infrastructure & Asset Analytics** – Civil and municipal data systems, cost intelligence, asset risk modeling
-* 📊 **Quantitative & Statistical Modeling** – Simulation, uncertainty analysis, and decision-support tooling
+* 🧠 **Applied Machine Learning** – Risk modeling, time series analysis, forecasting, and real-world evaluation under uncertainty  
+* ⚙️ **Backend & Systems Engineering** – API-first architectures, authentication, and production-ready services  
+* 🧱 **Data Engineering** – ETL pipelines, schema design, and reproducible workflows  
+* 🏗️ **Infrastructure Analytics** – Asset risk modeling, cost intelligence, and decision-support systems  
 
 ---
 
@@ -157,8 +156,17 @@ _**Engineering Focus**
 
 An **applied machine learning platform** for predictive maintenance of wastewater lift stations, leveraging SCADA data, pump performance metrics, and system behavior to identify early indicators of failure. Designed to help utilities transition from reactive maintenance to **data-driven, risk-based asset management**.
 
-**Status:** 🧭 Planned / In Development  
+**Status:** 🧪 Design Phase (Architecture & Data Strategy Defined)    
 **Core Stack:** Python, pandas, scikit-learn, FastAPI (planned), PostgreSQL (planned), Time-Series Processing, ML Pipelines  
+
+---
+
+_**Current State**_
+
+* System architecture and ML pipeline design defined  
+* Data strategy outlined for SCADA and operational signals  
+* Repository scaffolded with CI/CD, typing, and development standards  
+* Implementation of data ingestion and modeling pipelines planned next  
 
 ---
 
@@ -197,11 +205,20 @@ _**Engineering Focus**
 
 ---
 
-## 🧠 Research & Learning Repositories
+## 🧠 Research & Applied Exploration
 
-* Default Detect – Credit risk modeling with SHAP interpretability and API deployment
-* NASA SpaceApps – Applied ML meets real-world climate data
-* Pencils & Python – Turning mathematics into production-grade Python
+Smaller, focused projects exploring modeling techniques, data workflows, and system design patterns.
+
+---
+
+**Default Detect — Credit Risk Modeling & Explainability**  
+Applied ML project exploring credit risk prediction with SHAP-based interpretability and API deployment concepts.
+
+**NASA SpaceApps — Climate Data Modeling**  
+Exploratory project applying data analysis and modeling techniques to real-world environmental datasets.
+
+**Pencils & Python — Mathematical Foundations in Code**  
+Translating mathematical concepts into structured, production-style Python implementations.
 
 ---
 
