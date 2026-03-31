@@ -22,14 +22,14 @@ I don’t treat ML as notebooks in isolation. I build **ML as software**. ☕
 ## 🧰 Core Tech Stack
 
 | Category                 | Tools                                                                   |
-| ------------------------ | ----------------------------------------------------------------------- |
+| ------------------------ |-------------------------------------------------------------------------|
 | **Languages**            | Python, SQL                                                             |
-| **Backend Frameworks**   | FastAPI, Flask, Django, SQLAlchemy                                      |
+| **Backend Frameworks**   | FastAPI, Flask, SQLAlchemy                                              |
 | **Data & ML**            | Pandas, NumPy, Scikit-Learn                                             |
 | **Databases**            | PostgreSQL, MySQL, SQLite, DuckDB                                       |
 | **Infra & DevOps**       | AWS (in progress), Docker (in progress), GitHub Actions, Heroku, Vercel |
-| **Workflow & Packaging** | Git, Conda, uv, Poetry                                                  |
-| **Docs & Analysis**      | JupyterLab, Quarto, PyCharm, DataSpell                                  |
+| **Workflow & Packaging** | Git, Conda, uv                                                          |
+| **Docs & Analysis**      | JupyterLab, Quarto, PyCharm, DataSpell, VSCode                          |
 
 ---
 
@@ -105,42 +105,95 @@ _**Engineering Focus**
 
 ---
 
-### 🤖 Ops AI Cortex — ML Systems & Experiment Tracking Backend
+### 🧠 MinutesIQ — Intelligent Document Processing & Infrastructure Signal Extraction Platform  
 
-[https://github.com/Brice-Backend-Projects/Ops-AI-Cortex](https://github.com/Brice-Backend-Projects/Ops-AI-Cortex)
+[https://github.com/Brice-Engineering-Projects/Minutes-IQ](https://github.com/Brice-Engineering-Projects/Minutes-IQ)
 
-A backend platform for **model lifecycle management**, experiment tracking, and ML observability—designed with a docs-first, architecture-before-code mindset.
+A **backend-driven intelligence platform** that ingests public meeting records and extracts structured insights using configurable keyword pipelines and automated document processing. Designed to surface **early infrastructure signals** from unstructured data, enabling proactive decision-making for engineers, analysts, and planners.
 
-**Status:** 📝 Architecture complete, implementation beginning
-**Stack:** FastAPI, PostgreSQL, Docker, MLflow / W&B (planned), GitHub Actions
-
-**Goal:** Demonstrate ML systems thinking and backend–ML integration maturity.
+**Status:** ⚙️ In Progress  
+**Core Stack:** FastAPI, Turso (libSQL), HTMX, Jinja2, Background Tasks, JWT Authentication  
 
 ---
 
-### 💰 BudgetSync — Backend-First Financial System
+_**Current Capabilities (Backend-First)**
 
-[https://github.com/Brice-Financial-Projects/Financial-App](https://github.com/Brice-Financial-Projects/Financial-App)
-
-A secure, database-driven financial application focused on correctness, state management, and deployment realism.
-
-**Status:** 🟢 Near-deploy
-**Stack:** Flask, PostgreSQL, SQLAlchemy, Redis / Flask-Session, SendGrid
-
-**Goal:** Demonstrate end-to-end backend engineering and production readiness.
+* End-to-end document ingestion and processing pipeline (PDF/HTML → structured outputs)  
+* Configurable keyword intelligence system with client-specific filtering  
+* Selective PDF page extraction with keyword-level highlighting, enabling rapid validation of extracted signals within original source context  
+* Background job orchestration with progress tracking and state management  
+* Secure authentication with role-based access and session handling  
+* Exportable outputs (CSV) for downstream analysis  
 
 ---
 
-### 📈 HedgeForge — Risk Modeling & Simulation Engine
+_**Applied Intelligence Roadmap**  
 
-[https://github.com/Brice-Financial-Projects/HedgeForge](https://github.com/Brice-Financial-Projects/HedgeForge)
+* Named entity recognition (projects, locations, funding references)  
+* Context-aware classification of infrastructure initiatives  
+* Trend detection across meeting records and time-series signals  
+* Integration with external data sources for enriched analysis  
+* Transition from keyword-based filtering to ML-driven signal extraction  
 
-A quantitative modeling engine for simulation-driven portfolio and risk analysis.
+---
 
-**Status:** ⚙️ In Progress
-**Stack:** Python, NumPy, Pandas, SciPy
+_**Engineering Focus**  
 
-**Goal:** Reproducible and auditable analytical pipelines.
+* Scalable background processing and job orchestration  
+* Clean service-layer architecture and modular pipeline design  
+* Efficient storage and retrieval of semi-structured document data  
+* Secure, production-oriented backend with real-world user workflows  
+
+---
+
+**Goal:** Build a production-grade intelligence platform that transforms unstructured public records into actionable infrastructure insights, bridging document processing with applied ML and backend systems.
+
+---
+
+### ⚙️ Lift Station Predictive Maintenance — Applied ML for Infrastructure Reliability  
+
+[https://github.com/Brice-Machine-Learning/lift-station-predictive-maintenance
+](https://github.com/Brice-Machine-Learning/lift-station-predictive-maintenance)  
+
+An **applied machine learning platform** for predictive maintenance of wastewater lift stations, leveraging SCADA data, pump performance metrics, and system behavior to identify early indicators of failure. Designed to help utilities transition from reactive maintenance to **data-driven, risk-based asset management**.
+
+**Status:** 🧭 Planned / In Development  
+**Core Stack:** Python, pandas, scikit-learn, FastAPI (planned), PostgreSQL (planned), Time-Series Processing, ML Pipelines  
+
+---
+
+_**Planned Capabilities (ML-First System)**
+
+* SCADA data ingestion and preprocessing pipelines for time-series operational data  
+* Pump runtime analysis and degradation pattern tracking  
+* Wet-well level modeling and anomaly detection  
+* Failure pattern identification using historical operational signals  
+* ML-based risk scoring for proactive maintenance prioritization  
+* Dashboard-ready outputs for operational decision support  
+
+---
+
+_**Applied ML Focus**  
+
+* Time-series feature engineering (lags, rolling stats, usage patterns)  
+* Supervised learning for failure prediction and risk classification  
+* Anomaly detection for early warning signals  
+* Model evaluation under real-world class imbalance (rare failure events)  
+* Integration of domain-specific features (pump cycles, inflow variability, system load)  
+
+---
+
+_**Engineering Focus**  
+
+* End-to-end ML pipeline design (ingestion → feature engineering → modeling → outputs)  
+* Reproducible experimentation and model versioning  
+* CI/CD with testing, linting, typing, and security checks  
+* ML-ready backend architecture for future API integration  
+* Strong documentation and modular project structure for scalability  
+
+---
+
+**Goal:** Build a production-ready predictive maintenance system that enables utilities to anticipate lift station failures, reduce downtime, and optimize maintenance strategies using applied ML and robust backend engineering.
 
 ---
 
@@ -155,12 +208,10 @@ A quantitative modeling engine for simulation-driven portfolio and risk analysis
 ## 🧭 GitHub Ecosystem
 
 | Organization                        | Focus                                              | Link                                                                                           |
-| ----------------------------------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+|-------------------------------------|----------------------------------------------------|------------------------------------------------------------------------------------------------|
 | **Brice Machine Learning Projects** | Applied ML, risk modeling, predictive analytics    | [https://github.com/Brice-Machine-Learning](https://github.com/Brice-Machine-Learning)         |
 | **Brice Backend Projects**          | Backend services, APIs, authentication, ML systems | [https://github.com/Brice-Backend-Projects](https://github.com/Brice-Backend-Projects)         |
 | **Brice Engineering Projects**      | Infrastructure analytics, cost intelligence        | [https://github.com/Brice-Engineering-Projects](https://github.com/Brice-Engineering-Projects) |
-| **Brice Financial Projects**        | Financial systems and modeling tools               | [https://github.com/Brice-Financial-Projects](https://github.com/Brice-Financial-Projects)     |
-| **Brice Physics Projects**          | Scientific modeling and simulation                 | [https://github.com/Brice-Physics-Projects](https://github.com/Brice-Physics-Projects)         |
 
 ---
 
