@@ -77,7 +77,7 @@ _**Engineering Philosophy**
 
 A **FastAPI-powered backend platform** for querying, aggregating, and analyzing civil bid-item pricing across large datasets, with a clear roadmap toward **applied machine learning–driven cost analytics**. Built for engineers, analysts, and decision-makers who need structured, defensible insights from infrastructure cost data.
 
-**Status:** ⚙️ In Progress
+**Status:** ⚙️ MVP development Phase
 **Core Stack:** FastAPI, PostgreSQL, SQLAlchemy, JWT Authentication, AWS RDS
 
 _**Current Capabilities (Backend-First)**
@@ -110,7 +110,7 @@ _**Engineering Focus**
 
 A **backend-driven intelligence platform** that ingests public meeting records and extracts structured insights using configurable keyword pipelines and automated document processing. Designed to surface **early infrastructure signals** from unstructured data, enabling proactive decision-making for engineers, analysts, and planners.
 
-**Status:** ⚙️ In Progress  
+**Status:** ⚙️ Completed MVP with ongoing enhancements  
 **Core Stack:** FastAPI, Turso (libSQL), HTMX, Jinja2, Background Tasks, JWT Authentication  
 
 ---
